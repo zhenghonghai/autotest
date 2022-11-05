@@ -1,0 +1,10 @@
+chrome:
+  path: E:\Testing\google\chromedriver.exe
+
+data:
+  - name: 输入框
+    type: ID
+    value: kw
+  - name: 点击
+    type: ID
+    value: su
